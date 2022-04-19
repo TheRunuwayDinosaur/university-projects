@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <invoice_reference>
+            <type value = "input"/>
+            <id value = "12"/>
+            <name>OOO IRLANG</name>
+            <unit_of_measurement value = "kg"/>
+            <count value = "100"/>
+            <price value = "15.4"/>
+            <current_sum value = "1222220"/>
+        </invoice_reference>
+        <employee_reference>
+            <name>Skaev Sarmat Alanovich</name>
+            <post value = "security guard"/>
+            <salary value = "250000"/>
+        </employee_reference>
+        <accouting_for_the_receipt_and_delivery_of_goods>
+            <name>Butilki</name>
+            <coming value = "25"/>
+            <expenditure value = "12"/>
+            <price value = "14.3"/>
+            <current_sum value = "1500"/>
+        </accouting_for_the_receipt_and_delivery_of_goods>
+        <product_reference>
+            <name>Milk</name>
+            <product_code value = "12"/>
+            <product_type_code value = "13"/>
+            <provider value = "Daniil"/>
+            <count value = "1000"/>
+        </product_reference>
+    </item>
+    <item>
+        <invoice_reference>
+            <type value = "output"/>
+            <id value = "124"/>
+            <name>OOO MGUPI</name>
+            <unit_of_measurement value = "g"/>
+            <count value = "13"/>
+            <price value = "17.1"/>
+            <current_sum value = "10"/>
+        </invoice_reference>
+        <employee_reference>
+            <name>Amogus</name>
+            <post value = "imposter"/>
+            <salary value = "12"/>
+        </employee_reference>
+        <accouting_for_the_receipt_and_delivery_of_goods>
+            <name>burgeri</name>
+            <coming value = "96"/>
+            <expenditure value = "12"/>
+            <price value = "27.1"/>
+            <current_sum value = "1423"/>
+        </accouting_for_the_receipt_and_delivery_of_goods>
+        <product_reference>
+            <name>Water</name>
+            <product_code value = "45"/>
+            <product_type_code value = "471"/>
+            <provider value = "Sanya"/>
+            <count value = "4619"/>
+        </product_reference>
+    </item>
+    <item>
+        <invoice_reference>
+            <type value = "input"/>
+            <id value = "51"/>
+            <name>OOO Zakaz</name>
+            <unit_of_measurement value = "mg"/>
+            <count value = "1"/>
+            <price value = "1694.14"/>
+            <current_sum value = "64915"/>
+        </invoice_reference>
+        <employee_reference>
+            <name>Max</name>
+            <post value = "gamer"/>
+            <salary value = "49"/>
+        </employee_reference>
+        <accouting_for_the_receipt_and_delivery_of_goods>
+            <name>chocolate</name>
+            <coming value = "47"/>
+            <expenditure value = "1240"/>
+            <price value = "79.6"/>
+            <current_sum value = "413"/>
+        </accouting_for_the_receipt_and_delivery_of_goods>
+        <product_reference>
+            <name>Cola</name>
+            <product_code value = "71"/>
+            <product_type_code value = "62"/>
+            <provider value = "Leonid"/>
+            <count value = "741"/>
+        </product_reference>
+    </item>
+</items>
