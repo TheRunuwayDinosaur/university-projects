@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/work_with_files">
+        <file>files/input.txt</file>
+        <file>files/output.txt</file>
+    </qresource>
+</RCC>
